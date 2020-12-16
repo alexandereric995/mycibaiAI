@@ -1,0 +1,3 @@
+# mycibaiAI
+MYCIBAI is an ARTIFICIAL INTELLIGENCE PROJECT
+#Robotic
